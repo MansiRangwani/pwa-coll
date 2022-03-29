@@ -1,0 +1,16 @@
+{
+  "name": "THE NEW VIEW",
+  "short_name": "NEWVIEW",
+  "start_url": "/index.html",
+  "background_color": "#FFE9D2",
+  "display": "standalone",
+  "theme_color": "#FFE1C4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ]
+}
